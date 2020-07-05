@@ -15,7 +15,7 @@
 
 ## 安装
 
-see https://github.com/13kay/pyg2/releases/tag/0.1b
+see https://github.com/13kay/pyg2/releases/tag/0.1
 
 ## 1 分钟上手
 
